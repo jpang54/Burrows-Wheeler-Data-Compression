@@ -1,4 +1,4 @@
-Programming Assignment 8: Burrows-Wheeler
+Burrows-Wheeler
 
 /* *****************************************************************************
  *  Which sorting algorithm did you use in CircularSuffixArray.java?
@@ -49,36 +49,3 @@ MoveToFront encode()                  n + R              nR
 MoveToFront decode()                  n + R              nR
 Huffman compress()                    n + R log R        n + R log R
 Huffman expand()                      n                  n
-
-
-
-
-
-/* *****************************************************************************
- *  Known bugs / limitations.
- **************************************************************************** */
-None.
-
-
-/* *****************************************************************************
- *  Describe whatever help (if any) that you received.
- *  Don't include readings, lectures, and precepts, but do
- *  include any help from people (including course staff, lab TAs,
- *  classmates, and friends) and attribute them by name.
- **************************************************************************** */
-None.
-
-/* *****************************************************************************
- *  Describe any serious problems you encountered.
- **************************************************************************** */
-None.
-
-
-/* *****************************************************************************
- *  List any other comments here. Feel free to provide any feedback
- *  on how much you learned from doing the assignment, and whether
- *  you enjoyed doing it. Additionally, you may include any suggestions
- *  for what to change or what to keep (assignments or otherwise) in future
- *  semesters.
- **************************************************************************** */
-Thank you for a great semester!
