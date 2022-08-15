@@ -49,3 +49,6 @@ MoveToFront encode()                  n + R              nR
 MoveToFront decode()                  n + R              nR
 Huffman compress()                    n + R log R        n + R log R
 Huffman expand()                      n                  n
+
+
+
